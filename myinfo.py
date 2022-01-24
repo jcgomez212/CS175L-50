@@ -2,4 +2,5 @@
 #Juliana Gomez
 #myInfo
 print ("My name is Juliana Gomez")
-print ("I am a student")
+print ("I live at 1313 Mockingbird Lane")
+
